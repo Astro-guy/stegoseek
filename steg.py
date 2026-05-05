@@ -718,7 +718,6 @@ def main():
     parser.add_argument("path", help="Path to image file OR directory")
     parser.add_argument("--debug-dir", help="Directory to save debug outputs", default=None)
 
-    # 🔥 NEW OPTIONS
     parser.add_argument("--limit", type=int, help="Limit number of files (for directory mode)", default=None)
     parser.add_argument("--random", action="store_true", help="Randomly sample files")
 

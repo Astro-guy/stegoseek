@@ -6,19 +6,19 @@ This project combines multiple statistical, spatial, and frequency-domain tests 
 
 ## 📦 Installation  
 Clone the repository:  
-git clone https://github.com/yourusername/stegdetect.git  
-cd stegdetect  
+git clone [https://github.com/Astro-guy/stegoseek.git]
+cd stegoseek  
 
 
 ## ▶️ Usage  
 🔹 Analyze a single image  
-python steg_detect.py image.png  
+python stegoseek.py image.png  
 🔹 Analyze a directory  
-python steg_detect.py images/  
+python stegoseek.py images/  
 🔹 Limit number of files  
-python steg_detect.py images/ --limit 50  
+python stegoseek.py images/ --limit 50  
 🔹 Random sampling   
-python steg_detect.py images/ --limit 50 --random  
+python stegoseek.py images/ --limit 50 --random  
 
 
 ## 🧠 Verdict Logic  

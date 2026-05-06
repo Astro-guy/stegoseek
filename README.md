@@ -6,7 +6,7 @@ This project combines multiple statistical, spatial, and frequency-domain tests 
 
 ## 📦 Installation  
 Clone the repository:  
-git clone [https://github.com/Astro-guy/stegoseek.git]
+git clone https://github.com/Astro-guy/stegoseek.git  
 cd stegoseek  
 
 
